@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @darrelldupas
-- 👀 I’m interested in parenting, programming, gaming, sports, cooking, raptors, blue jays.
-- 🌱 I’m currently learning web programming - javascript.
-- 💞️ I’m looking to collaborate on finding work that pays 💵
-- 🎮 I'm also known as [FISH] Milan in the Warbrokers.io community.
+# Darrell's Github
 
-Currently moving my email to 📫 darrell@darrelldupas.info and github to https://github.com/ddupas.
+I have many interests and do a lot of unfinished work. I am happy to answer any questions you may have. Most of the work here is very non-technical, just using a lot of stuff to get a feel for it.
 
-A lot of what is here is just for my own reference and are learning projects.
-
-<!---
-dirtslayer/dirtslayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I am working on:
+  - Organizing my life with Logseq
+  - Personal health goals
+  - Web development
+    
+Under construction 

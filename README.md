@@ -1,10 +1,5 @@
 # Darrell's Github
 
-I have many interests and do a lot of unfinished work. I am happy to answer any questions you may have. Most of the work here is very non-technical, just using a lot of stuff to get a feel for it.
+I am still waiting for someone to create an issue on one of my repositories.
 
-What I am working on:
-  - Organizing my life
-  - Personal health goals
-  - Web development
-    
-Under construction 
+Go for it!

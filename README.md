@@ -1,14 +1,15 @@
 # Darrell's Github
 
-January 2025 What! 's up??
+October 2025 yo!
+================
 
-I am still waiting for someone to create an issue here.
+## working On
+- love2d game fspace
+- nushell config / picture of the day
+- mdbook kb maybe
 
-## Working On
-
-- [x] Remove personal reference projects
-- [x] updates to wish portal
-      - [x] moved to Android phone from render
-      - [ ] update web ui from js to ssr solids
-- [ ] journal project
-- [ ] job search
+## thinking about
+- creating characters
+- narratives that are one possibility of many
+- zen light love2d
+- 

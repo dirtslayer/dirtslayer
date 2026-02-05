@@ -1,6 +1,6 @@
 # Darrell's Github
 
-November 2025 yo!
+2026!
 ================
 
 ## working On
@@ -9,15 +9,12 @@ November 2025 yo!
 - nushell config / picture of the day
   old worthwhile configs that I still use all the time
   
-- mdbook kb maybe
-  my nth abandoned journalling project
+- mdbook [blog](https://dirtslayer.github.io/blog/)
 
-- abandoning cachy for trixie
-  everyone has to grow up sometime even me, but already notice perf hit :(
-  hopefully its a driver issue, but investigating gamemode and zen kernel on deb
+- new fileserver setup
+  
+- my own container manager with mise [blog mise + podman](https://dirtslayer.github.io/blog/container-project.html)
 
-## thinking about
-- creating characters
-- narratives that are one possibility of many
-- zen light love2d
-- 
+- reviewing js ecosystem - solidjs, tan stack
+  
+- can i build a ecommerce website?

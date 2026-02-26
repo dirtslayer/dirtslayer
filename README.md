@@ -25,6 +25,15 @@ https://rust-lang.github.io/mdBook/format/markdown.html?highlight=admonition#adm
 > does not work on gh pages, use svg snippet instead
 > svg embed in md not working in gh pages either
 
+Some text above.
+
+<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+  <path fill="currentColor" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0z"/>
+</svg>
+
+Some text below.
+
+
 <svg viewBox="0 0 448 512" width="20" height="20" aria-hidden="true">
   <path fill="currentColor" d="M224 32C100.3 32 0 132.3 0 256s100.3 224 224 224 224-100.3 224-224S347.7 32 224 32z"/>
 </svg>

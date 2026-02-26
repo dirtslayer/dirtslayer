@@ -25,6 +25,14 @@ https://rust-lang.github.io/mdBook/format/markdown.html?highlight=admonition#adm
 > does not work on gh pages, use svg snippet instead
 > svg embed in md not working in gh pages either
 
+Final workaround is use external svg file and handle like an image
+
+![](./fa-envelope.svg)
+
+Some text below embeded svg as img
+
+
+
 Some text above.
 
 <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">

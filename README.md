@@ -22,7 +22,9 @@ https://rust-lang.github.io/mdBook/format/markdown.html?highlight=admonition#adm
 > Font Awesome Snippit
 > <https://fontawesome.com/v6/icons/envelope?f=sharp-duotone&s=thin>
 > <br/>
-> <i class="fa-sharp-duotone fa-thin fa-envelope"></i>
+>
+
+<i class="fa-sharp-duotone fa-thin fa-envelope"></i>
 
 > [!IMPORTANT]
 > Key information that shouldn't be missed.
